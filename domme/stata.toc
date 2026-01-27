@@ -2,4 +2,4 @@
 1
 2
 3
-p mundlak Executes a statistical test of the exclusion restriction of an instrumental variable (IV) Use testex With STATA 19
+p domme Dominance analysis for mulitple equation models Use domme With STATA 19
